@@ -31,3 +31,9 @@ The application helps users track income and expenses, manage budgets, monitor s
 * Recurring transactions
 * Savings recommendations
 
+# FinTrack Pro
+
+Live Demo: [https://your-vercel-link.vercel.app](https://fintrack-pro-nu-eight.vercel.app/)
+
+A personal finance management web application built with React, TypeScript, Vite and Tailwind CSS.
+
