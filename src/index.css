@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  /* Vintage Light Theme */
+
+  --color-vintage-navy: #0A2947;
+  --color-vintage-cream: #F3E4C9;
+  --color-vintage-sage: #D3D4C0;
+  --color-vintage-brown: #8B5E3C;
+
+  /* Neon Dark Theme */
+
+  --color-neon-black: #111111;
+  --color-neon-purple-dark: #1A1A1A;
+  --color-neon-purple: #8B5E3C;
+  --color-neon-purple-light: #E8D8C4;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
