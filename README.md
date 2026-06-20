@@ -23,38 +23,6 @@ The application helps users track income and expenses, manage budgets, monitor s
 * Tailwind CSS
 * Context API
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/amankanchann/fintrack-pro.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd fintrack-pro
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
-
 ## Future Improvements
 
 * User authentication
