@@ -1,5 +1,7 @@
 # FinTrack Pro
 
+Live Demo: https://fintrack-pro-nu-eight.vercel.app
+
 FinTrack Pro is a personal finance management web application built using React, TypeScript, Vite, and Tailwind CSS.
 
 The application helps users track income and expenses, manage budgets, monitor savings goals, and view financial insights through a simple and modern interface.
@@ -8,7 +10,7 @@ The application helps users track income and expenses, manage budgets, monitor s
 
 * Add, edit, and delete transactions
 * Income and expense tracking
-* Monthly budget management
+* Budget management
 * Multiple financial goals
 * Analytics dashboard
 * Export transactions to CSV
@@ -27,13 +29,9 @@ The application helps users track income and expenses, manage budgets, monitor s
 
 * User authentication
 * Cloud database integration
-* Financial reports and charts
 * Recurring transactions
-* Savings recommendations
+* Advanced financial reports
 
-# FinTrack Pro
+## Author
 
-Live Demo: [https://your-vercel-link.vercel.app](https://fintrack-pro-nu-eight.vercel.app/)
-
-A personal finance management web application built with React, TypeScript, Vite and Tailwind CSS.
-
+Aman Kanchan
